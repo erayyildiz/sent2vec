@@ -1,5 +1,5 @@
 # sent2vec
-Python/Keras program for generating both sentence embeddings and word embeddings jointly. For Turkish text. Moify tokenize function for other languages. 
+Python/Keras program for generating both sentence embeddings and word embeddings jointly. Impelemented for Turkish text only. Modify tokenize function for other languages. 
 > In Progress
  
 **Paper:**
